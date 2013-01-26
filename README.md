@@ -1,4 +1,4 @@
 ##grunt-cover
 
-One-step test-coverage report generator compatible with any test framework (including none); no preparation or cooperation from
-the test framework required.
+One-step test coverage generation compatible with any test framework (or no framework); no preparation or cooperation from the tests
+ is required.
